@@ -1,5 +1,6 @@
 Voice-Controlled Assistant Project  
-![image](https://github.com/azarudeen3031/voice_assistant/assets/94823262/0895e664-7477-4d10-9890-5527cb8d8fc5)
+![image](https://github.com/azarudeen3031/voice_assistant/assets/94823262/47ad1ade-0619-4e21-ac96-6ae04ee13227)
+
 
 This repository contains the code for a voice-controlled assistant project that enables users to interact with a virtual assistant using voice commands. The project utilizes a combination of HTML, JavaScript, and Java technologies to create a seamless and interactive user experience.
 
